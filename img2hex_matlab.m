@@ -1,3 +1,4 @@
+%Matlab code to convert image to its equivalent hex file
 close all;
 clear all;
 clc;
