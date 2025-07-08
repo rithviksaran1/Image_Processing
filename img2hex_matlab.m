@@ -1,4 +1,5 @@
-%Matlab code to convert image to its equivalent hex file
+%Matlab code to convert image to its equivalent hex file 
+%Project made for a 768 x 512 image
 close all;
 clear all;
 clc;
